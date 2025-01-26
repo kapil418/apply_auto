@@ -1,7 +1,7 @@
 # Add your LinkedIn email ID and password.
 # *** WARNING: KEEP THIS CONFIG OFFLINE ON YOUR PC AND DO NOT COMMIT/UPLOAD ***
 email: cv.kapileswar@gmail.com
-password: Lipak@123
+password: password
 
 # Anti-lock default is False to prevent your PC from sleeping to
 # allow bot to run uninterrupted. Set it to True if you wish  to
@@ -186,6 +186,7 @@ personalInfo:
  First Name: Venkata Kapileswar Reddy
  Last Name: Chavva
  Phone Country Code: United States (+1)
+ Mobile Phone Number: 2623946199
  Street address: 3815 Landsdown Ave
  City: Naperville
  State: IL
