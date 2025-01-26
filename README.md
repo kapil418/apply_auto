@@ -13,14 +13,16 @@ For Linux
     python3 -m pip install webdriver-manager --upgrade
     python3 -m pip install packaging
 
+Run the bot with python
+
+    python3 main.py
+
 For windows
 
     py -m pip install webdriver-manager --upgrade
     py -m pip install packaging
 
-    Run the bot with python
+Run the bot with python
 
-    python3 main.py
-or 
     py main.py
 
