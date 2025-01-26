@@ -3,9 +3,9 @@
 
 Getting Started
 
-    Modify the config.py file locally to include your LinkedIn credentials, personal information, and job preferences.
+    1> Modify the config.py file locally to include your LinkedIn credentials, personal information, and job preferences.
 
-    Install python3 and pip3 on your system. Then, install the required dependencies using the following commands
+    2> Install python3 and pip3 on your system. Then, install the required dependencies using the following commands
 
 For Linux
 
