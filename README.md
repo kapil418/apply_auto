@@ -9,18 +9,18 @@ Getting Started
 
 For Linux
 
-sudo apt-get install python3
-python3 -m pip install webdriver-manager --upgrade
-python3 -m pip install packaging
+    sudo apt-get install python3
+    python3 -m pip install webdriver-manager --upgrade
+    python3 -m pip install packaging
 
 For windows
 
-py -m pip install webdriver-manager --upgrade
-py -m pip install packaging
+    py -m pip install webdriver-manager --upgrade
+    py -m pip install packaging
 
     Run the bot with python
 
-python3 main.py
+    python3 main.py
 or 
-py main.py
+    py main.py
 
