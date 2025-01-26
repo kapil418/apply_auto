@@ -18,6 +18,7 @@ Run the bot with python
     python3 main.py
 
 For windows
+
     download and install from https://www.python.org/downloads/
     py -m pip install webdriver-manager --upgrade
     py -m pip install packaging
