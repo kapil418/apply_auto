@@ -14,6 +14,7 @@ python3 -m pip install webdriver-manager --upgrade
 python3 -m pip install packaging
 
 For windows
+
 py -m pip install webdriver-manager --upgrade
 py -m pip install packaging
 
